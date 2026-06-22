@@ -41,7 +41,7 @@ return{
     square
 };
 }
-
+//example;
 let cal = math();
 let numb1 = 5;
 let numb2 = 4;
